@@ -191,7 +191,8 @@ def draw_heat_map():
     # Do not modify the next two lines
     fig.savefig('heatmap.png')
     return fig
---------------------------------------------------import os
+--------------------------------------------------
+import os
 os.environ['MPLCONFIGDIR'] = os.getcwd() + "/configs/"
 import matplotlib
 import pandas as pd
