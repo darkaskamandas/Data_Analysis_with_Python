@@ -1,0 +1,1 @@
+Standard Python objects take up more memory than NumPy objects; operations on NumPy objects complete very quickly compared to comparable objects in standard Python.
