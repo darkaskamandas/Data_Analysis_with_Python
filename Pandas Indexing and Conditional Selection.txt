@@ -1,0 +1,4 @@
+
+Tom      8
+Beau     6
+dtype: int64
