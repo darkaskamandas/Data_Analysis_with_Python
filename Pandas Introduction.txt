@@ -1,0 +1,5 @@
+Tom      8
+Kris     2
+Ahmad    5
+Beau     6
+dtype: int64
