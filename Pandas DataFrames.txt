@@ -1,0 +1,4 @@
+
+Certificates        5
+Time (in months)    9
+Name: Ahmad, dtype: int64
