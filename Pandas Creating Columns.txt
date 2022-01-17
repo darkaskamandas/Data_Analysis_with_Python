@@ -1,0 +1,4 @@
+certificates_earned['Certificates per month'] = round(
+    certificates_earned['Certificates'] /
+    certificates_earned['Time (in months)'], 2
+)
