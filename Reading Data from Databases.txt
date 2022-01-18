@@ -1,0 +1,2 @@
+
+The Cursor instance has an .execute() method which will receive SQL parameters to run against the database.
